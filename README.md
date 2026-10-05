@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/symfony-mime
 
-Tyhp type definitions for `symfony/mime` `7.4.19`.
+Tyhp type definitions for `symfony/mime` `8.1.7`.
 
 ```bash
-composer require --dev tyhpdef/symfony-mime:7.4.19
+composer require --dev tyhpdef/symfony-mime:8.1.7
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/symfony-mime-impl` (type files).

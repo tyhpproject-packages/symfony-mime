@@ -1,15 +1,15 @@
 {
     "name": "tyhpdef/symfony-mime",
-    "description": "Tyhp type definitions for symfony/mime 7.4.19.",
+    "description": "Tyhp type definitions for symfony/mime 8.1.7.",
     "type": "metapackage",
     "license": "Apache-2.0",
-    "version": "7.4.19",
+    "version": "8.1.7",
     "keywords": [
         "dev",
         "static analysis"
     ],
     "require": {
-        "tyhpdef/symfony-mime-impl": "~7.4.19.0"
+        "tyhpdef/symfony-mime-impl": "~8.1.7.0"
     },
     "extra": {
         "tyhp": {
